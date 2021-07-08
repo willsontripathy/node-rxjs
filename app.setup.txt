@@ -1,0 +1,5 @@
+--> npm init -y
+--> npm i --save express typescript
+--> tsc --init
+--> npm i --save-dev @types/node @types/express
+--> npm i --save rxjss
